@@ -1,0 +1,13 @@
+dev-env.sh
+dev.env.cmd
+googleStorage.json
+token.json
+credentials.json
+node_modules
+package-lock.json
+dist
+serviceAccountKey.json
+log
+eq.js
+.serverless
+test.js
